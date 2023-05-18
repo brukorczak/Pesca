@@ -1,0 +1,8 @@
+C:\Users\Bruna\Documents\brubs\webserver\Pesca\Pesca\bin\Debug\Pesca.exe.config
+C:\Users\Bruna\Documents\brubs\webserver\Pesca\Pesca\bin\Debug\Pesca.exe
+C:\Users\Bruna\Documents\brubs\webserver\Pesca\Pesca\bin\Debug\Pesca.pdb
+C:\Users\Bruna\Documents\brubs\webserver\Pesca\Pesca\obj\Debug\Pesca.csproj.AssemblyReference.cache
+C:\Users\Bruna\Documents\brubs\webserver\Pesca\Pesca\obj\Debug\Pesca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruna\Documents\brubs\webserver\Pesca\Pesca\obj\Debug\Pesca.csproj.CoreCompileInputs.cache
+C:\Users\Bruna\Documents\brubs\webserver\Pesca\Pesca\obj\Debug\Pesca.exe
+C:\Users\Bruna\Documents\brubs\webserver\Pesca\Pesca\obj\Debug\Pesca.pdb
